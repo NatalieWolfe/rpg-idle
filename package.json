@@ -1,0 +1,26 @@
+{
+  "name": "rpg-idle",
+  "version": "0.0.0",
+  "description": "Idle RP game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NatalieWolfe/rpg-idle"
+  },
+  "author": "Natalie Wolfe <natalie@lifewanted.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NatalieWolfe/rpg-idle/issues"
+  },
+  "homepage": "https://github.com/NatalieWolfe/rpg-idle",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.1"
+  }
+}
