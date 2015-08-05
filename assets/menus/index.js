@@ -1,6 +1,6 @@
 
-var fs = require('fs');
-var path = require('path');
+var fs      = require('fs');
+var path    = require('path');
 
 exports.name = "Main Menu";
 var options = exports.options = [];

@@ -3,6 +3,11 @@
 var pkg = require('./package');
 var io = require('./lib/interface');
 
+global.rpglib = {
+    io: io,
+    pkg: pkg
+};
+
 console.log('Welcome to Idle RPG v' + pkg.version);
 console.log('');
 
